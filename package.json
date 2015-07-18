@@ -1,0 +1,27 @@
+{
+  "name": "hexo-static-search",
+  "version": "0.0.0",
+  "description": "Static search page for Hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdaciuk/hexo-static-search.git"
+  },
+  "keywords": [
+    "hexo",
+    "hexo",
+    "search",
+    "hexo",
+    "static",
+    "search"
+  ],
+  "author": "Fernando Daciuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdaciuk/hexo-static-search/issues"
+  },
+  "homepage": "https://github.com/fdaciuk/hexo-static-search"
+}
