@@ -1,2 +1,2 @@
-# hexo-static-search
+# Hexo Static Search
 Static search page for Hexo
